@@ -5,7 +5,15 @@
  h1 {
      font-size: 30;
      font-family: monospace;
-     color: aqua;
+     color: blue;
  }
 
  /* why wont it work */
+    div {
+        width: 300px;
+        border: 15px solid black;
+        padding: 50px;
+        margin: 20px;
+        text-align: center;
+        background-color: gray;
+    }
