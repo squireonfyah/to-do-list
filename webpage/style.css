@@ -1,0 +1,16 @@
+/* cant seem to get the changes to apply in html
+.mainheader {
+    font-size: 10PX;
+    font-family: monospace;
+    color: blue;
+}
+ this was the wrong use of code */
+ 
+ /* here is a better example to style html with css */
+
+ h1 {
+     font-size: 30;
+     font-family: monospace;
+     color: aqua;
+ }
+ 
