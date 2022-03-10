@@ -6,11 +6,20 @@
 }
  this was the wrong use of code */
  
- /* here is a better example to style html with css */
+ /* the problem was that i did not have the <link rel="stylesheet" href="style.css"> tag in html */
 
  h1 {
      font-size: 30;
      font-family: monospace;
-     color: aqua;
+     color: black;
+ }
+ 
+ div {
+     border: 10px solid black;
+     width: 200px;
+     padding: 70px;
+     margin: 30px;
+     text-align: center;
+     background-color: gray;
  }
  
