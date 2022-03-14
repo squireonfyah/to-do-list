@@ -8,3 +8,5 @@
 <p>DevOps project</p>
 
 > <https://dev.azure.com/Max-Squire/To-Do%20List%20web%20page>
+
+<p>Final draft of the project has been finished and all documentation has been added to Devops project, it has been made public and availabe to view to anyone who is interested.</p>

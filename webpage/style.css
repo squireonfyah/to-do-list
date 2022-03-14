@@ -15,16 +15,17 @@
  }
  
  div {
-     border: 10px solid black;
+     border: 10px solid rgb(38, 97, 175);
+     border-radius: 30px;
      width: 200px;
      padding: 70px;
      margin: 30px;
      text-align: center;
-     background-color: gray;
-     box-shadow: 100cm;
+     background-color: rgb(23, 213, 226);
+     box-shadow: 10px 15px;
  }
 button {
-    background-color: #333333; 
+    background-color: #17eb57; 
     border-radius: 30px;
     padding: 10px 32px;
     font-size: 15px;
@@ -32,4 +33,4 @@ button {
    margin: 10px;
     margin-left: 40px;
 }
-/* added styling to my button and positioned it better */
+/* added styling to my button and positioned it better as well as a box shadow */
