@@ -23,5 +23,13 @@
      background-color: gray;
      box-shadow: 100cm;
  }
-
- 
+button {
+    background-color: #333333; 
+    border-radius: 30px;
+    padding: 10px 32px;
+    font-size: 15px;
+    text-align: center;
+   margin: 10px;
+    margin-left: 40px;
+}
+/* added styling to my button and positioned it better */
